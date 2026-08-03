@@ -8,7 +8,7 @@
 - 🔭 QA Automation Engineer at **Tech Mahindra** with **2.8+ years** building Selenium–Java test frameworks for web apps
 - ⚙️ I own automation stacks end to end — **TestNG, Maven, Page Object Model, data-driven testing, Extent Reports** — wired into **Jenkins CI/CD**
 - 🧪 Cut regression effort ~**35%** with reusable, maintainable framework design; back UI coverage with **Postman** API checks
-- 🌱 Currently expanding into **REST Assured, Selenium Grid, and Docker**
+- 🌱 Currently expanding into **Selenium Grid and Docker**
 - 🎯 Open to **SDET / Test Automation Engineer** roles
 - 📫 Reach me: **soorajswaamy@gmail.com** · [LinkedIn](https://linkedin.com/in/suraj-swamy-254292217)
 
@@ -23,6 +23,7 @@
 ![Cucumber](https://img.shields.io/badge/Cucumber%20BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-25A162?style=for-the-badge&logo=rest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
