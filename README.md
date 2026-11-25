@@ -45,8 +45,6 @@
 > **CI:** Reusable GitHub Actions workflows with an API job followed by Chromium/Firefox UI jobs, inputs/secrets, npm caching, concurrency, HTML reports, retries and traces.<br>
 > **Stack:** Playwright, TypeScript, Node.js/npm, GitHub Actions.
 
-**Verified CI:** [9 passing test executions](https://github.com/surajswamy20/playwright-framework/actions/runs/45132117465) — 5 API + 2 Chromium UI + 2 Firefox UI.
-
 **[Selenium Cross-Browser UI Framework](https://github.com/surajswamy20/AutomationFramework-secretSauce)**
 
 > Page Object Model, DriverFactory, ThreadLocal WebDriver, TestNG DataProviders, custom listeners, RetryAnalyzer, Extent Reports, failure screenshots and a Jenkinsfile.<br>
